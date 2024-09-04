@@ -1,0 +1,33 @@
+<svg width="21" height="16" viewBox="0 0 21 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="21" height="16" fill="#1E1E1E"/>
+<g id="Hero Section" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="810" transform="translate(-260 -529)" fill="url(#paint0_linear_0_1)"/>
+<g id="background-img">
+<g id="Element 1">
+<g id="Layer_1" clip-path="url(#clip1_0_1)">
+</g>
+</g>
+</g>
+<g id="Frame 1">
+<g id="Text">
+<g id="Button 2">
+<rect id="Rectangle 1" x="-158" y="-17.1923" width="212.963" height="51" rx="25" fill="#1A2B67"/>
+<path id="Arrow 1" d="M19.7904 8.5148C20.181 8.12428 20.181 7.49111 19.7904 7.10059L13.4265 0.736626C13.036 0.346101 12.4028 0.346101 12.0123 0.736626C11.6217 1.12715 11.6217 1.76031 12.0123 2.15084L17.6691 7.80769L12.0123 13.4645C11.6217 13.8551 11.6217 14.4882 12.0123 14.8788C12.4028 15.2693 13.036 15.2693 13.4265 14.8788L19.7904 8.5148ZM0.564819 8.80769H19.0833V6.80769H0.564819V8.80769Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="1501.5" y1="767.5" x2="2.40813e-05" y2="-4.71114e-05" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FCFDFF"/>
+<stop offset="0.51103" stop-color="#D6E9FF"/>
+<stop offset="1" stop-color="#DDDBF5"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="810" fill="white" transform="translate(-260 -529)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="1290.37" height="610.243" fill="white" transform="translate(399.314 -127.392) rotate(169.288)"/>
+</clipPath>
+</defs>
+</svg>
